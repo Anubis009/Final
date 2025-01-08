@@ -1,0 +1,17 @@
+body{
+    font-family: "Comfortaa" , sans-serif;
+}
+
+header{
+    background-image: linear-gradient(100deg,#1A1B1F,#1A1B1F);
+}
+
+.navbar-brand,
+.text-primary{
+    color: #ebebeb !important
+}
+
+.blue-bg{
+    background-color: #8097cb;
+    color: #edfcff;
+}
