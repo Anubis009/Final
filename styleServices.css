@@ -1,10 +1,10 @@
 /* Header Styles */
 .main-header {
-    font-family:  'SG Kara', sans-serif;
-    background: #1E1E1E;
-    padding: 5px 10px;
-    animation: gradientAnimation 10s ease infinite;
-  }
+  font-family:  'SG Kara', sans-serif;
+  background: #1E1E1E;
+  padding: 5px 10px;
+  animation: gradientAnimation 10s ease infinite;
+}
   
   /* Logo Styles */
   .logo {
